@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diplom2VSdp", "diplom2VS\diplom2VSdp.csproj", "{C5B923D4-1D5D-4D37-95FF-CE172E532995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diplom2VSring", "diplom2VSring\diplom2VSring.csproj", "{1C6D2B92-28A3-4644-AAB8-8A9F8B55C5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diplom2VSrotameter", "diplom2VSrotameter\diplom2VSrotameter.csproj", "{33AFAAB6-89F1-4703-AEFC-1539B785FFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diplom2VSultrasound", "diplom2VSultrasound\diplom2VSultrasound.csproj", "{F6D16D62-721F-453F-B172-7666E71BE745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B923D4-1D5D-4D37-95FF-CE172E532995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B923D4-1D5D-4D37-95FF-CE172E532995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B923D4-1D5D-4D37-95FF-CE172E532995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B923D4-1D5D-4D37-95FF-CE172E532995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6D2B92-28A3-4644-AAB8-8A9F8B55C5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6D2B92-28A3-4644-AAB8-8A9F8B55C5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6D2B92-28A3-4644-AAB8-8A9F8B55C5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6D2B92-28A3-4644-AAB8-8A9F8B55C5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AFAAB6-89F1-4703-AEFC-1539B785FFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AFAAB6-89F1-4703-AEFC-1539B785FFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AFAAB6-89F1-4703-AEFC-1539B785FFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AFAAB6-89F1-4703-AEFC-1539B785FFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D16D62-721F-453F-B172-7666E71BE745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D16D62-721F-453F-B172-7666E71BE745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D16D62-721F-453F-B172-7666E71BE745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D16D62-721F-453F-B172-7666E71BE745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0C9E92-A3DB-48BB-945F-4022C50A2638}
+	EndGlobalSection
+EndGlobal
